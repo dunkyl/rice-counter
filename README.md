@@ -12,7 +12,7 @@ Download all comments and channel @'s from a yt video immediately.
 
 ## Usage
 
-Put your [YouTube API Key]() in an `api_key.txt`, in this folder.
+Put your [YouTube API Key](https://cloud.google.com/cloud-console/) in an `api_key.txt`, in this folder.
 
 ```sh
 py -3.11 download_comments.py cXVWZbU0MRs
